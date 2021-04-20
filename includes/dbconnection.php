@@ -2,7 +2,7 @@
 // DB credentials.
 define('DB_HOST','cloud.c876e3yhfbay.eu-west-1.rds.amazonaws.com');
 define('DB_USER','admin');
-define('DB_PASS','Welcome!1234');
+define('DB_PASS','admin123');
 define('DB_NAME','cpms');
 // // Establish database connection.
 try
